@@ -1,8 +1,10 @@
-# research-hacks
+# research-resources
 
-> Description of the repo goes here
+> General and [NERDS](nerds.itu.dk)-specific research resources
 
-## Contents
+## General research
 
-* `latexdiffs.md`: How to produce a latex diff comparing 2 versions of an overleaf project (useful e.g. for reviewed resubmission to journals)
-* ...
+* [`latexdiffs.md`](latexdiffs.md): How to produce a latex diff comparing 2 versions of an overleaf project (useful e.g. for reviewed resubmission to journals)
+
+
+## NERDS templates
