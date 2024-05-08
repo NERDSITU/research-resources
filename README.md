@@ -1,6 +1,6 @@
 # research-resources
 
-> General and [NERDS](nerds.itu.dk)-specific research resources
+> General and [NERDS](https://nerds.itu.dk)-specific research resources
 
 ## General research
 
