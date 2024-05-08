@@ -12,3 +12,4 @@
 
 * Slide templates: [`.key`](nerdstemplates/nerds_slidestemplate.key) [`.pptx`](nerdstemplates/nerds_slidestemplate.pptx)
 * [Settling in](settlingin.md): Guide from general residency and employment in Denmark to information for PhD Students at ITU
+* [PhD reading recommendations](phdreading.md)
