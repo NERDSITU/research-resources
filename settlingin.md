@@ -1,5 +1,12 @@
+## Foreword
+
+This "guide" is made as an **unofficial** helper to get settled in Denmark as an employee in the university, especially targeted towards PhD Student. It's not exhaustive, it might be biased, it might be wrong or outdated, so do not take it as the full and complete truth, but as a foundation to help you ! Always visit the official website of the government and of ITU to be sure of the presented guidelines. We still believe this guide to be worthy as a starting point, to get a first grasp and not feel overwhelmed by all the tasks, and the small tips that can be important to know.
+
+You can contribute to this guide ! As most people are going through the same things, the whole point of this guide is to avoid having everyone wasting energy trying to figure out the same stuff. If you have any worthwhile addition to make for specific cases, additional tips, nuances, other sources to back up... anything to help make this guide a better helper, please contribute !
+
+
 ## Understand residency and employment in Denmark as a foreigner
-Denmark work ecosystem is revolving around Collective Agreements. Unions representing the workers are discussing with employers and companies to find a set of rules around salary, pension, benefits. This is why it's relatively hard to make common statements for everyone, and that I will speak specifically for people working at ITU as academics. Bottom line: if you are a PhD student and you take the regular pension scheme, your net monthly salary will be around 20000 dkk, or around 2700 euros.
+Denmark work ecosystem is revolving around Collective Agreements. Unions representing the workers are discussing with employers and companies to find a set of rules around salary, pension, benefits. This is why it's relatively hard to make common statements for everyone, and that I will speak specifically for people working at ITU as academics. Bottom line: if you are a PhD student and you take the regular pension scheme, your net monthly salary will be around 22000 dkk, or around 2950 euros.
 
 ### Holidays
 Holidays are counted through an account with feriepenge, or holiday pay. By default, you get 2.08 paid day for holidays every month that you worked full time, or 25 days in a full year from September to August. This is amounting to a specific sum of money. On top of that, you accrue five special days of holiday annually, or 0.42 day per month of employment. So you have 6 weeks of paid holidays.
