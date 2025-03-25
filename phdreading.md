@@ -1,6 +1,5 @@
 # PhD reading recommendations
 * [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
-* [Lessons from my PhD](https://notesfromthephysicslab.com/2021/04/11/lessons-learnt-from-my-phd-so-far/)
 * [Managing your mental health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2)
 * [The Good Research Code Handbook](https://goodresearch.dev/)
 * Writing Science by Joshua Schimel ([Amazon link](https://www.amazon.de/-/en/gp/product/0199760241/), or ask Michael to borrow the book)
