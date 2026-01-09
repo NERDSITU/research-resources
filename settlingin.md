@@ -1,5 +1,12 @@
+## Foreword
+
+This "guide" is made as an **unofficial** helper to get settled in Denmark as an employee in the university, especially targeted towards PhD Student. It's not exhaustive, it might be biased, it might be wrong or outdated, so do not take it as the full and complete truth, but as a foundation to help you ! Always visit the official website of the government and of ITU to be sure of the presented guidelines. We still believe this guide to be worthy as a starting point, to get a first grasp and not feel overwhelmed by all the tasks, and the small tips that can be important to know.
+
+You can contribute to this guide ! As most people are going through the same things, the whole point of this guide is to avoid having everyone wasting energy trying to figure out the same stuff. If you have any worthwhile addition to make for specific cases, additional tips, nuances, other sources to back up... anything to help make this guide a better helper, please contribute !
+
+
 ## Understand residency and employment in Denmark as a foreigner
-Denmark work ecosystem is revolving around Collective Agreements. Unions representing the workers are discussing with employers and companies to find a set of rules around salary, pension, benefits. This is why it's relatively hard to make common statements for everyone, and that I will speak specifically for people working at ITU as academics. Bottom line: if you are a PhD student and you take the regular pension scheme, your net monthly salary will be around 20000 dkk, or around 2700 euros.
+Denmark work ecosystem is revolving around Collective Agreements. Unions representing the workers are discussing with employers and companies to find a set of rules around salary, pension, benefits. This is why it's relatively hard to make common statements for everyone, and that I will speak specifically for people working at ITU as academics. Bottom line: if you are a PhD student and you take the regular pension scheme, your net monthly salary will be around 22000 dkk, or around 2950 euros.
 
 ### Holidays
 Holidays are counted through an account with feriepenge, or holiday pay. By default, you get 2.08 paid day for holidays every month that you worked full time, or 25 days in a full year from September to August. This is amounting to a specific sum of money. On top of that, you accrue five special days of holiday annually, or 0.42 day per month of employment. So you have 6 weeks of paid holidays.
@@ -60,6 +67,14 @@ A free website of offers is [Boligportal](https://www.boligportal.dk/) and like 
 And of course, you can always ask to other NERDS member if they know of any opportunity ! When you live there you will hear a lot of offers, so they might be one for you out there that you're not aware of.
 
 Finding a place to live is the first step as you will need to have a valid adress to make other administrative tasks.
+
+## Biking and how to get a bike
+Biking in Copenhagen is by far the most convenient (money and time-wise) transportation option and also the funniest. There are different ways to get a bike that might be more suitable for you depending on your needs:
+- [DBA](https://www.dba.dk/) is a website to sell and buy a lot of stuff where you can also find tons of second-hand bikes. This option might be best for you if you’re planning a long stay in Denmark and you can easily sell the bike before leaving the country. Keep in mind that you cannot rely on a reparation service if you opt for this. Something else to keep in mind is that if you’re buying the cheapest bike (less than 700-800 dkk) you’re embracing the risk of buying a really rusty and old bike that might need some extra care and reparations even before starting to use it. Our studies prove that one-third of the sample had to repair the rusty bike once in a while, one-third had to abandon the vehicle before the end of the stay, one one-third ended up buying more and more rusty bikes that were all unadjustable. Yes, this is based on the experience of 3 different people.
+- [Swapfiets](https://swapfiets.dk/en-DK/copenhagen) offers a bike leasing service where you pay a fixed monthly fee. The good point is the reparation service is included and it is possible to change the bike for whatever reason. They offer different models, including e-bikes, for different prices and there are student discounts on the fees available. This might result more expensive in the long run so do your math.
+- For a really short stay or a once-in-a-while ride you may also opt for a bike-sharing app. There are many out there options but the cheapest and most flexible could be [Donkey Republic](https://www.donkey.bike/cities/bike-rental-copenhagen/), which do not require a monthly subscription and allows you to pay as you go.
+Remember that we are not in the Netherlands 😉 and we follow rules here! To have a safe and enjoyable travel always signal with your arm your intention to turn, left or right, and stop, by raising up your hand.
+
 
 ## Get your administrative papers done
 If you are an EU Citizen, since Denmark is in the Shengen Space you don't need a visa to get into the country. You can come with a National ID Card or a Passport and stay legally for 3 month technically.
