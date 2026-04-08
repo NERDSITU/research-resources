@@ -6,6 +6,7 @@
 
 * [`latexdiffs.md`](latexdiffs.md): How to produce a latex diff comparing 2 versions of an overleaf project (useful e.g. for reviewed resubmission to journals)
 * [`designingslides/`](designingslides/): Materials for designing good scientific slides
+* [`arxivsubmission.md`](arxivsubmission.md): What to do to when submitting to arxiv
 
 
 ## NERDS-specific
