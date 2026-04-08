@@ -13,8 +13,8 @@ We assume that:
 * Label the Overleaf project just before the arxiv submission, for example "arxiv submission": go to `[your overleaf project] > History > All history > [latest documented change] > More actions (3 dots) > Label this version > [choose your label]`
 * Download and unzip the project
 * In the downloaded project folder, run: `bibopt main.tex references.bib references_cleaned.bib`
-* Delete `references.bib`
 * If you have an SI that uses the same `references.bib` and has additional entries that are not used in `main.tex`, manually copy all those entries into `references_cleaned.bib`. (If your SI has its own separate bib file `si_references.bib` though, you need to re-run all steps for `si_references.bib` that you run for `references.bib`)
+* Delete `references.bib`
 * run: `sed -i '' 's/\bibliography{references}/\bibliography{references_cleaned}/' main.tex`
 * if you have an SI, run: `sed -i '' 's/\bibliography{references}/\bibliography{references_cleaned}/' si.tex`  
 * run: `arxiv_latex_cleaner /folder --compress_pdf --keep_bib`, where folder is your folder. This will create a new folder `folder_arXiv`
